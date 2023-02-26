@@ -1,0 +1,11 @@
+/* parent component for all expenses list */
+
+.expenses {
+    padding: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 30px;
+    /* box-shadow: 10px 1px 24px rgba(221, 0, 255, 0.893); */
+  }
